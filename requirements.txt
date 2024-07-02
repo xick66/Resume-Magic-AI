@@ -4,3 +4,4 @@ Pillow
 google
 pyperclip
 google-generativeai
+dotenv
