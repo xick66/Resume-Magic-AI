@@ -23,7 +23,7 @@ ResumeMagicAI is an AI-powered resume analyzer that helps job seekers and recrui
 3. Create a .env file in the root directory.
    GOOGLE_API_KEY=your_google_api_key
 
-##Usage
+## Usage
 Run the Streamlit app:
 ```sh
 streamlit run app.py
