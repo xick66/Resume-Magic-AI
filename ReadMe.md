@@ -13,8 +13,8 @@ ResumeMagicAI is an AI-powered resume analyzer that helps job seekers and recrui
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ResumeMagicAI.git
-   cd ResumeMagicAI
+   git clone https://github.com/yourusername/Resume-Magic-AI.git
+   cd Resume-Magic-AI
 
 2. Install the required dependencies:
    ```sh
