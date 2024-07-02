@@ -1,0 +1,1 @@
+Assume the role of a candidate rating Expert. Provided job description || {job_description} || and candidate's details || {resume_data} ||. Give a rating between from 1 to 10. Return only a number, nothing else.

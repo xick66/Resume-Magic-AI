@@ -1,0 +1,7 @@
+Generate job-related questions based on the following details. Consider the cases if the job description is a bit different than the resume of the employee.
+
+**Resume Details:**
+{resume_description}
+
+**Job Description:**
+{job_description}
